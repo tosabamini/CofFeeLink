@@ -1,0 +1,8 @@
+numpy
+scipy
+bitalino
+neurokit2
+gpiozero
+Pillow
+matplotlib
+pyserial
